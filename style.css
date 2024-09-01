@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+header{
+    margin: 10px 40px ;
+}
+
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.header-left-gap{
+    gap: 30px;
+}
+
